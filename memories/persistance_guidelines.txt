@@ -1,0 +1,44 @@
+HOW TO INSTALL UNITY 2019
+
+1. Disconnect from internet
+
+2. Install Unity
+
+3. Install addons : Unity hub
+
+4. Create an empty folder in PROGRAMDATA (C:ProgramData)
+called ‘Unity’
+
+5. Delete “Licensing” folder from this location:
+C:Program FilesUnityEditorDataResources
+
+6. (i) Replace the Unity.exe with the cracked version
+(2019.3.5f1)
+
+(ii) Find ‘Unity_Lic.ulf’ in hub folder within crack folder. Place into
+C:ProgramDataUnity
+
+(iii) From the same
+crack folder place ‘2.3.0’ into following location:
+C:Program FilesUnity Hubresources and replace the original
+
+7. Click on ‘Unity Hub’ on desktop and install Visual Studio
+Community 2017 (and documentation if required)
+
+8. Click on Unity or Unity hub and start the program.
+
+9. Install contents found in the Support folder. May take a while.
+
+10. Optional: Block program in Windows Firewall (Start >
+Control Panel > Firewall > ‘Allow a Program or …’ REMOVE unity or uncheck boxes.
+(When you start the program a dialogue pops up about firewall, all you can do each time is click on CANCEL)
+
+11. Enable internet
+
+12. ENJOY 🙂
+
+NOTES:
+If licence invalid appears check internet and disable and
+try again or repeat from point 10.
+
+Tested on W7 ROG edition Sept. 2022 with thanks to GetIntoPc.com for this OS.
